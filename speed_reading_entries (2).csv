@@ -1,0 +1,6 @@
+sentence,question,answer,hint,questionType
+Business Alignment,Information security governance must align with the organization’s strategic objectives.,TRUE,Security exists to support the business — not the other way around.,boolean
+Accountability,The board of directors is ultimately accountable for information security governance.,FALSE,Responsibility may be delegated,boolean
+Security Metrics,Metrics are essential for evaluating the effectiveness of the security program.,TRUE,If you can’t measure it,boolean
+Risk Appetite,Security governance must reflect the organization’s risk appetite.,FALSE,,boolean
+Security Steering Committee,A security steering committee helps ensure alignment between IT and business security needs.,TRUE,Governance structures like committees bridge business and IT.,boolean
